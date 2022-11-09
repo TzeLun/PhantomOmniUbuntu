@@ -7,7 +7,7 @@ Make sure the following libraries are installed in your computer.
 $ sudo apt-get install freeglut3-dev x11proto-gl-dev libmotif-dev mesa-utils libglw1-mesa-dev libncurses5-dev
 ```
 
-# PHANToM Device Driver (PDD) Installation
+## PHANToM Device Driver (PDD) Installation
 Download the contents from this [folder](https://github.com/TzeLun/PhantomOmniUbuntu/tree/main/OpenHapticsAE_Linux_v3_0). Install the PHANTOM Device Drivers (PDD) via:
 
 For `x86` system:
