@@ -142,6 +142,7 @@ Relaunch `PHANToMTest` and it should appear successfully as so:
 
 ## OpenHaptics SDK installation
 Lastly, install OpenHaptics via:
+
 For `x86` system:
 ```bash
 $ cd [DOWNLOAD DIR]/OpenHapticsAE_Linux_v3_0/OpenHaptics-AE 3.0/32-bit/
