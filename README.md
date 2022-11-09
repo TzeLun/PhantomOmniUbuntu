@@ -1,7 +1,7 @@
 # PhantomOmniUbuntu
 Guide on setting up phantom omni with the IEEE1394 firewire on Ubuntu. Important files are included in this repository. Also added some tips on solving problems which aren't covered widely on websites.
 
-# Preliminary Step
+## Preliminary Step
 Make sure the following libraries are installed in your computer.
 ```bash
 $ sudo apt-get install freeglut3-dev x11proto-gl-dev libmotif-dev mesa-utils libglw1-mesa-dev libncurses5-dev
@@ -140,7 +140,7 @@ $ sudo chmod 777 /dev/fw*
 Relaunch `PHANToMTest` and it should appear successfully as so:
 ![phantom_test](https://github.com/TzeLun/PhantomOmniUbuntu/blob/main/Supporting%20documents/phantomtest.png)
 
-# OpenHaptics SDK installation
+## OpenHaptics SDK installation
 Lastly, install OpenHaptics via:
 For `x86` system:
 ```bash
